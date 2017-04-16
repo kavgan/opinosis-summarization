@@ -6,7 +6,7 @@ The Opinosis Summarization framework is a graph based algorithm that focuses on 
 
 ## Opinosis Software Distribution
 
-- Download the zip file for the software and corresponding documentation. 
+- Download the [zip file](opinosis-summarizer.zip) for the software and corresponding documentation. 
 - Visit my [website](http://kavita-ganesan.com/opinosis) for the Opinosis paper and other information 
 
 ## Citation
