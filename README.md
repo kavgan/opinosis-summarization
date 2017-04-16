@@ -9,3 +9,15 @@ The Opinosis Summarization framework is a graph based algorithm that focuses on 
 - Download the zip file for the software and corresponding documentation. 
 - Visit my [website](http://kavita-ganesan.com/opinosis) for the Opinosis paper and other information 
 
+## Citation
+
+```
+@inproceedings{ganesan2010opinosis,
+  title={Opinosis: a graph-based approach to abstractive summarization of highly redundant opinions},
+  author={Ganesan, Kavita and Zhai, ChengXiang and Han, Jiawei},
+  booktitle={Proceedings of the 23rd International Conference on Computational Linguistics},
+  pages={340--348},
+  year={2010},
+  organization={Association for Computational Linguistics}
+}
+```
