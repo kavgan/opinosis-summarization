@@ -11,6 +11,7 @@ The Opinosis Summarization framework is a graph based algorithm that focuses on 
 
 ## Citation
 
+
 ```
 @inproceedings{ganesan2010opinosis,
   title={Opinosis: a graph-based approach to abstractive summarization of highly redundant opinions},
