@@ -21,3 +21,6 @@ The Opinosis Summarization framework is a graph based algorithm that focuses on 
   organization={Association for Computational Linguistics}
 }
 ```
+
+# Contact
+This repo is maintained by [Kavita Ganesan](http://kavita-ganesan.com/)
